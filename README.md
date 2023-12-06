@@ -7,6 +7,9 @@ The primary goal of the project is to forecast the anticipated volume of rainfal
 
 * IDE: Jupyter notebook, vscode
 
+# Research publications
+https://ieeexplore.ieee.org/document/10112077
+
 
 # CONCLUSION
 
