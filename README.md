@@ -8,10 +8,10 @@ The primary goal of the project is to forecast the anticipated volume of rainfal
 * IDE: Jupyter notebook, vscode
 
 # Research publications
-Title: A Stacking Ensemble Learning Model for Rainfall Prediction based on Indian Climate
-https://ieeexplore.ieee.org/document/10112077
-INSPEC Accession Number: 23040242
-DOI: 10.1109/ISCON57294.2023.10112077
+Title: A Stacking Ensemble Learning Model for Rainfall Prediction based on Indian Climate <br>
+https://ieeexplore.ieee.org/document/10112077 <br>
+INSPEC Accession Number: 23040242 <br>
+DOI: 10.1109/ISCON57294.2023.10112077 <br>
 
 
 # CONCLUSION
